@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Mascot Changer
-// @namespace    http://101.50.2.18
+// @namespace    https://userscripts.fandrest.my.id
 // @version      1.0
 // @description  Changes the web Discord nitro mascot to a saucy protogen
 // @author       Fandrest
